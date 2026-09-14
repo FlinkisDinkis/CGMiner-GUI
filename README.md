@@ -22,9 +22,9 @@ YOU NEED A .BAT FILE!
 
 cgminer -o (pool) -u (user or address .(workername) ) -p x --api-listen --api-port 4028
 
-&#x20;                                      (lightning addresses dont work)                                     ^
+&#x20;                                      (lightning addresses dont work)                                     
 
-&#x20;                                                                                                                                  |
+&#x20;                                                                                                                                       
 
 &#x20;                                                                                             this api thing is how the gui works, you need it!
 
@@ -56,11 +56,11 @@ Unplugged Miners Are Not Shown
 
 1s Refresh 
 
-Avg, 5S, 5M, 15M, And Current Hashrate
+Avg, 5S, 5M, and 15 minute hashrate
 
-&#x20;                          ^
+&#x20;                          
 
-&#x20;        these are broken i think
+&#x20;        im pretty sure the 5 second, 5 minute, and 15 minute are broken
 
 &#x20;                                                   I USED AI FOR THIS, I DO NOT KNOW HOW TO SCRIPT, I JUST WANTED A SIMPLE GUI FOR                                              
 
